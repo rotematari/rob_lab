@@ -8,6 +8,6 @@ venv/*
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-.idea/
+.dea/i
 
 .venv/
